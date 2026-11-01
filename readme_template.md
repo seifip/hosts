@@ -618,6 +618,10 @@ devices under a variety of operating systems.
 
 ## Interesting Applications
 
+- [Kilobat](https://kilobat.app/mac-malware-blocker) is a proprietary macOS
+  network app that can use this hosts list for optional, free tracker blocking.
+  It downloads the list locally and enforces it through a network filter rather
+  than changing `/etc/hosts`. Threat blocking and the agent guard are a paid upgrade.
 - [Hosts-BL](https://github.com/ScriptTiger/Hosts-BL "Hosts-BL") is a simple
   tool to handle hosts file black lists. It can remove comments, remove
   duplicates, compress to 9 domains per line, add IPv6 entries. In addition, it
